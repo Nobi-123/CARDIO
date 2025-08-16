@@ -69,7 +69,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url="https://t.me/Og_Tenny",
+                text="ᴏᴡɴᴇʀ", url="https://t.me/Og_Zerathos",
             ),
             InlineKeyboardButton(
                 text="sᴜᴩᴩᴏʀᴛ", url="https://t.me/JarvisXsupport",
@@ -91,7 +91,7 @@ def stream_markup(_, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url="https://t.me/Og_Tenny",
+                text="ᴏᴡɴᴇʀ", url="https://t.me/Og_Zerathos",
             ),
             InlineKeyboardButton(
                 text="sᴜᴩᴩᴏʀᴛ", url="https://t.me/JarvisXsupport",
