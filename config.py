@@ -17,7 +17,7 @@ BOT_TOKEN = getenv("BOT_TOKEN",)
 BOT_USERNAME = getenv("BOT_USERNAME" , "CardioMuzicBot")
 
 # Get Your repo
-REPO_LINK = getenv("REPO_LINK" , "https://github.com/Nobi-123/NISHA")
+REPO_LINK = getenv("REPO_LINK" , "https://github.com/Nobi-123/CARDIO")
 
 # Don't Add style font 
 BOT_NAME = getenv("BOT_NAME" , "Cardio")
@@ -41,7 +41,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Nobu-123/NISHA",
+    "https://github.com/Nobi-123/CARDIO",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
