@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH","f700ddb0930acfab095b00911a2e6f3a")
 BOT_TOKEN = getenv("BOT_TOKEN",)
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "Systumm_music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "CardioMuzicBot")
 
 # Get Your repo
-REPO_LINK = getenv("REPO_LINK" , "https://github.com/Ahad611/IVAN-NISHA")
+REPO_LINK = getenv("REPO_LINK" , "https://github.com/Nobi-123/NISHA")
 
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "Sytumm")
+BOT_NAME = getenv("BOT_NAME" , "Cardio")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://IVANxNISHA:IVANxNISHA@cluster0.pq52raw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
@@ -28,10 +28,10 @@ MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://IVANxNISHA:IVANxNISHA@cluste
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID","-1002847095020"))
+LOGGER_ID = int(getenv("LOGGER_ID","-1002681848382"))
 
 # Get this value from @CrewMusic_bot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID","8195241636"))
+OWNER_ID = int(getenv("OWNER_ID","7694170809"))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -41,15 +41,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Ahad611/IVAN-NISHA",
+    "https://github.com/Nobu-123/NISHA",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BRANDRD_BOT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/BRANDED_WORLD")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/botXjarvis")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/JarvisXsupport")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
