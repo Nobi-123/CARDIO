@@ -31,7 +31,7 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHANNEL),
-            InlineKeyboardButton(text=_["S_B_7"], url="https://t.me/"),
+            InlineKeyboardButton(text=_["S_B_7"], url="https://files.catbox.moe/0wn1tj.webp"),
         ],
     ]
     return buttons
