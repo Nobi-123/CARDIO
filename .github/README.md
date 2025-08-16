@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━ 
 
 <h2 align="center">
-     ──「- 𝐼 ꪜ ꪖ ꪀ 」──
+     ──「- '𝐙 𝛆 ʀ 𝛂 ƚ 𝐡 𝚘 δ 」──
 
    <p align="center">
      <img src="[https://graph.org/file/6dbf205e018a9e7db2bad.jpg](https://files.catbox.moe/kobtju.jpg)">
@@ -11,6 +11,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=[https://github.com/Nobi-123/NISHA](https://github.com/Nobi-123/NISHA)"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=[https://github.com/Nobi-123/CARDIO](https://github.com/Nobi-123/CARDIO)"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
 
 
